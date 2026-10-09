@@ -6,7 +6,7 @@ This directory contains the files for the **Joule Work Desktop (JWD) DC Mission*
 
 Joule Work Desktop (JWD) is an AI-powered desktop application that helps business users complete everyday work more efficiently by bringing research, analysis, summarization, drafting, and contextual assistance into one secure workspace.
 
-> This guide targets SAP administrators and IT teams onboarding JWD within the **Early Adopter Care (EAC)** program. The EAC engagement supports up to **2,000 onboarded users** per tenant.
+> This guide targets SAP administrators and IT teams onboarding Joule Work Desktop for organizational use.
 
 ---
 
